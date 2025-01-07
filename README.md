@@ -1,6 +1,6 @@
 <div align="center" color=blue>
   <h1>Ata Ranjbaran</h1>
-  <img src="./web.png" alt="WebLegender" width=300px>
+  <img src="./WebLegender.png" alt="WebLegender" width=300px>
 </div>
 <hr>
 <h3>My Expertise:</h3>
