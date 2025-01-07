@@ -4,7 +4,7 @@
 </div>
 <hr>
 <h3>My Expertise:</h3>
-<img src="https://skillicons.dev/icons?i=js,py,html,css,bootstrap,cs,go,wordpress&theme=light&perline=4" alt="languages">
+<img src="https://skillicons.dev/icons?i=js,py,html,css,bootstrap,cs,go,wordpress alt="languages">
 <h3>My Social Network</h3>
 
 <p dir="auto">
