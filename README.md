@@ -1,5 +1,5 @@
 <div align="center" color=blue>
-  <img src="./r.php (1).png" alt="NoAvar" width=700px>
+  <img src="./NoAvar.png" alt="NoAvar" width=700px>
 </div>
 
 
