@@ -1,7 +1,3 @@
-<div align="center" color=blue>
-  <img src="./NoAvar.png" alt="NoAvar" width=500px>
-</div>
-
 
 # 💫 About Me:
 junior frontend developer<br>programming master<br>
